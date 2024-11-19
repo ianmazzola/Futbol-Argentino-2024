@@ -1,1 +1,1 @@
-Proyecto de análisis de datos relacionado con la Primera División del Futbol Argentino. Diseñe un modelo interactivo para predecir resultados de partidos y lo apliqué en las jornadas restantes del torneo para determinar al campeón.
+Proyecto de análisis de datos relacionado con la Primera División del Futbol Argentino en Microsoft Excel. Diseñe un modelo interactivo para predecir resultados de partidos y lo apliqué en las jornadas restantes del torneo para determinar al campeón.
